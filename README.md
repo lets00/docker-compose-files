@@ -6,6 +6,6 @@ They are intended to be used as is. This makes life easy.
 
 ## List of projects
 
-### **road**
+### road
 
 Used to store and show Geolocation data points. The data points are pushed by an IoT device.
